@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=System%20Upgrade:%20UI/UX%20in%20Progress...%20🚀&fontSize=40&animation=twinkling&fontColor=00f2ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&secondaryColor=7a55ff&height=200&section=header&text=CODE%20%E2%9E%A1%EF%B8%8F%20DESIGN&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h2 align="center"> 🛠️ DEBUGGING THE LOGIC... DESIGNING THE EXPERIENCE </h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/From-Binary_Logic-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/To-Visual_Empathy-00f2ff?style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=System+Upgrade:+UI/UX+in+Progress...;Debugging+the+Logic...;Designing+the+Experience...;From+Syntax+to+Empathy+🎨" alt="Typing SVG" />
 </p>
 
 ---
